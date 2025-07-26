@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Tirumaleswar Babu Navuluri
+<a href="https://in.linkedin.com/in/thirunavuluri"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**iamthirumalesh/iamthirumalesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm an Experienced SOC analyst and Senior security incident responder with over 9+ years of experience and a demonstrated history of working in the information technology and services industry. specialized in security information and event management (SIEM) tools like ArcSight, QRadar, RSA Netwitness, and Splunk as well as endpoint detection and response (EDR) products like Falcon CS, Microsoft Defender ATP, and Symantec ATP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+working knowledge of Microsoft DFI, Azure, AWS, Cortex XSOAR, DLP, and Email Gateway. Fundamental understanding of network devices, Qualys vulnerability, malware, and assaults.
+
+## 🚀 Popular Blog posts 
+
+| Project Name                                         | Description                                                   |
+|------------------------------------------------------|---------------------------------------------------------------|
+| [unmasking Faces behind URLs](https://cmdandconquer.substack.com/p/unmasking-the-faces-behind-the-urls)                 | A comprehensive guide for OSINT for URLs.      |
+
+Feel free to explore my resources, connect with me, and join upcoming webinars to enhance your skills in cybersecurity!
