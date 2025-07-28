@@ -11,5 +11,6 @@ working knowledge of Microsoft DFI, Azure, AWS, Cortex XSOAR, DLP, and Email Gat
 | Project Name                                         | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
 | [unmasking Faces behind URLs](https://cmdandconquer.substack.com/p/unmasking-the-faces-behind-the-urls)                 | A comprehensive guide for OSINT for URLs.      |
+| [Installing and Using capa for Malware Analysis](https://cmdandconquer.notion.site/23a954393ea580c9b5baf2d4e27a1e39?v=23e954393ea5802ca3aa000c2232a557)  | Static Malware analysis using Manidant CAPA tool |
 
 Feel free to explore my resources, connect with me, and join upcoming webinars to enhance your skills in cybersecurity!
